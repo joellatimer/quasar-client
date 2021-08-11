@@ -1,0 +1,22 @@
+{
+    "extends": "airbnb",
+    "parserOptions": {
+        "ecmaVersion": 6
+    },
+    "env": {
+        "node": true,
+        "browser": true,
+        "es6": true
+    },
+    "rules": {
+        "comma-dangle": "off",
+        "no-unused-vars": "warn",
+        "indent": ["error", 4],
+        "semi": "off",
+        "no-console": "off",
+        "linebreak-style": "off",
+        "no-shadow": "off",
+        "no-empty-pattern": "off",
+        "no-param-reassign": "off"
+    }
+}

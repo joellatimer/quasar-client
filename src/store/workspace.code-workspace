@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"name": "client @ fd795d7",
+			"uri": "gitlens://fd795d7/c:/Users/joell/qgroups/client?{\"path\":\"/c:/Users/joell/qgroups/client\",\"ref\":\"fd795d7545d3c24d22b7ea5fa6d80dc594cd0bdb\",\"repoPath\":\"c:/Users/joell/qgroups/client\"}"
+		},
+		{
+			"path": "..\\..\\..\\..\\NewClient"
+		}
+	],
+    "settings": {}
+}

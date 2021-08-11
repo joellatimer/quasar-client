@@ -1,0 +1,45 @@
+{
+    "groups" : {
+        "6ZIL0zQKxBabLp2uphJnkvd946z2" : {
+            "groupName" : "Springdale Woods"
+            },
+        "We7YAHcZwTUBUuEdUCBwbTHrIOu2" : {
+            "groupName" : "East Macon"
+            }
+    },
+   
+    "members" : {
+        "6ZIL0zQKxBabLp2uphJnkvd946z2" : {
+            "510cf17d-81e1-451c-901f-e8b9fa24f920" : {
+                "email" : "tim@gmail.com",
+                "firstName" : "Tim",
+                "joinDate" : "2021/2/16",
+                "lastName" : "Bottoms",
+                "phone" : "(478) 898 1564"
+            }
+        },
+        "We7YAHcZwTUBUuEdUCBwbTHrIOu2" : {
+            "00291ab0-63f4-43cd-9cac-08f18b6e6ba2" : {
+                "email" : "jim@gmail.com",
+                "firstName" : "Jim",
+                "joinDate" : "2020/9/5",
+                "lastName" : "Shaw",
+                "phone" : "(478) 568 1546"
+            },
+            "1d567b58-c623-492a-8a9e-b2fc6573fada" : {
+                "email" : "don@gmail.com",
+                "firstName" : "Donald",
+                "joinDate" : "2020/4/14",
+                "lastName" : "Duck",
+                "phone" : "(589) 648 2351"
+            },
+            "7928b72e-b096-4be5-a3ef-e00a6112bb9f" : {
+                "email" : "joe@test.com",
+                "firstName" : "Joe",
+                "joinDate" : "2020/6/23",
+                "lastName" : "Biden",
+                "phone" : "(587) 956 5285"
+            }
+        }
+    }
+}
